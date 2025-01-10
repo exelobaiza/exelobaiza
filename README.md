@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I am [Exequiel](https://www.linkedin.com/in/exequiel-lobaiza/), a creative developer, currently workin as Product Designer. 
-[subscribe now!](https://www.youtube.com/@gianlucalomarco?sub_confirmation=1) 
 
 ## Language and tecnologies
 <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
