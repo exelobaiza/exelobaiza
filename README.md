@@ -7,3 +7,5 @@ I am [Exequiel](https://www.linkedin.com/in/exequiel-lobaiza/), a creative devel
 <img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwind-css&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge">
